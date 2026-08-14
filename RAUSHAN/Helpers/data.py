@@ -51,7 +51,7 @@ PM_BUTTON = IKM([
     ],
     [
         IKB("˹ᴍᴜsɪᴄ ʙᴏᴛ˼", url="https://t.me/SonaliMusicBot"),
-        IKB("˹ᴄʜᴀᴛ ʙᴏᴛ˼", url="https://t.me/PurviAiBot"),
+        IKB("˹ʙᴏᴛ sᴏᴜʀᴄᴇ˼", url="https://github.com/TEAMPURVI/STRING_HACK"),
     ],
     [IKB("˹ᴀʟʟ-ʙᴏᴛs˼", url="https://t.me/PurviBots")]
 ])
